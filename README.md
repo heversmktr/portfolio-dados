@@ -1,4 +1,4 @@
-# Porfólio de Ciência de Dados
+# Porfólio de Análise de Dados
 
 Bem-vindos, este repositório contém trabalhos feitos durante a minha etapa de aprendizado. Está sujeito a mudanças, visando sempre à melhoria contínua.
 
